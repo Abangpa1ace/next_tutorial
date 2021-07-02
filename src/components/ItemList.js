@@ -3,7 +3,6 @@ import Link from 'next/link'
 import { Grid, Image } from 'semantic-ui-react'
 
 const ItemList = ({ list }) => {
-  console.log(list)
   return (
     <div>
       <Grid columns={3} divided>
