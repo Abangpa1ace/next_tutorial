@@ -8,6 +8,7 @@
 }
 
 .nav ul li {
+  display: block;
   margin-right: 1rem;
 }
 
